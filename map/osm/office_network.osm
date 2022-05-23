@@ -1,0 +1,437 @@
+<osm version="0.6" generator="geojsontoosm">
+    <node id="-1" lat="31.229604562400002" lon="121.35208309379999" timestamp='2009-03-11T06:30:08Z' version='1'/>
+    <node id="-2" lat="31.229613614315333" lon="121.35211419128157" timestamp='2009-03-11T06:30:08Z' version='1'/>
+    <node id="-3" lat="31.229604763505222" lon="121.35208300870795" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-4" lat="31.229557885399988" lon="121.35210167570001" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-5" lat="31.229531873679694" lon="121.35201231342245" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-6" lat="31.229539128363783" lon="121.35203723661425" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-7" lat="31.229493123693544" lon="121.35202779875759" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-8" lat="31.22950214776719" lon="121.35205880055702" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-9" lat="31.22967456762182" lon="121.3523223509766" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-10" lat="31.22967423099998" lon="121.35232243739998" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-11" lat="31.22965197671503" lon="121.35233129667458" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-12" lat="31.229682108222434" lon="121.35234949929121" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-13" lat="31.22951911999998" lon="121.35211710789999" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-14" lat="31.229529389999996" lon="121.35215238999999" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-15" lat="31.229540509999996" lon="121.35219061" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-16" lat="31.229576717599986" lon="121.35236125679995" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-17" lat="31.22958538317012" lon="121.35239102702684" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-18" lat="31.229630169408455" lon="121.35233997801029" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-19" lat="31.229603550921187" lon="121.35235057464315" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-20" lat="31.229576370907488" lon="121.35236146985456" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-21" lat="31.229621618736644" lon="121.35214169014061" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-22" lat="31.2296312284859" lon="121.35217470403762" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-23" lat="31.22963974889313" lon="121.35220397554502" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-24" lat="31.229648028094076" lon="121.35223241839809" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-25" lat="31.229657480051266" lon="121.35226489020698" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-26" lat="31.22966664948157" lon="121.35229639140633" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-27" lat="31.22954928370338" lon="121.35207212489787" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-28" lat="31.229557904871807" lon="121.35210171959581" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-29" lat="31.229513179353045" lon="121.35209669907441" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-30" lat="31.229597802339804" lon="121.35212515636614" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-31" lat="31.229585074603083" lon="121.35213022248891" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-32" lat="31.229608926539957" lon="121.35216337309731" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-33" lat="31.229596094737385" lon="121.35216848135352" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-34" lat="31.229618939309116" lon="121.3521977715569" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-35" lat="31.229607082909887" lon="121.35220249151196" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-36" lat="31.229629694680487" lon="121.3522347212002" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-37" lat="31.22961860044999" lon="121.35223913774138" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-38" lat="31.229638717309843" lon="121.35226571808157" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-39" lat="31.22962630251609" lon="121.3522706603309" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-40" lat="31.22960209133373" lon="121.35224570991255" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-41" lat="31.229611113965724" lon="121.3522767067939" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-42" lat="31.22955098384719" lon="121.35214379151098" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-43" lat="31.229529389099977" lon="121.35215238679999" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-44" lat="31.229561630420214" lon="121.35218220136805" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-45" lat="31.229571145300685" lon="121.35221679803581" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-46" lat="31.229550529999997" lon="121.35222501" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-47" lat="31.229582426850886" lon="121.35225353821293" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-48" lat="31.229603258749066" lon="121.35227983390415" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-49" lat="31.22956128" lon="121.35226196" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-50" lat="31.229590621243528" lon="121.35228486481168" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-51" lat="31.22957031" lon="121.35229294999999" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-52" lat="31.22957378307434" lon="121.35230490053112" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <node id="-53" lat="31.229561712057777" lon="121.35230970592166" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'/>
+    <way id="-1" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-1"/>
+        <nd ref="-2"/>
+        <tag k="id" v="1"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-2" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-3"/>
+        <nd ref="-1"/>
+        <nd ref="-4"/>
+        <tag k="id" v="2"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-3" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-5"/>
+        <nd ref="-6"/>
+        <tag k="id" v="3"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-4" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-7"/>
+        <nd ref="-8"/>
+        <tag k="id" v="4"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-5" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-9"/>
+        <nd ref="-10"/>
+        <nd ref="-11"/>
+        <tag k="id" v="5"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-6" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-10"/>
+        <nd ref="-12"/>
+        <tag k="id" v="25"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-7" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-4"/>
+        <nd ref="-13"/>
+        <tag k="id" v="26"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-8" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-13"/>
+        <nd ref="-14"/>
+        <tag k="id" v="27"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-9" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-14"/>
+        <nd ref="-15"/>
+        <tag k="id" v="32"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-10" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-16"/>
+        <nd ref="-17"/>
+        <tag k="id" v="33"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-11" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-11"/>
+        <nd ref="-18"/>
+        <tag k="id" v="34"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-12" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-18"/>
+        <nd ref="-19"/>
+        <tag k="id" v="35"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-13" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-19"/>
+        <nd ref="-16"/>
+        <nd ref="-20"/>
+        <tag k="id" v="36"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-14" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-2"/>
+        <nd ref="-21"/>
+        <tag k="id" v="37"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-15" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-21"/>
+        <nd ref="-22"/>
+        <tag k="id" v="38"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-16" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-22"/>
+        <nd ref="-23"/>
+        <tag k="id" v="39"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-17" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-23"/>
+        <nd ref="-24"/>
+        <tag k="id" v="40"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-18" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-24"/>
+        <nd ref="-25"/>
+        <tag k="id" v="41"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-19" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-25"/>
+        <nd ref="-26"/>
+        <tag k="id" v="42"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-20" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-26"/>
+        <nd ref="-10"/>
+        <tag k="id" v="43"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-21" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-6"/>
+        <nd ref="-27"/>
+        <tag k="id" v="44"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-22" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-27"/>
+        <nd ref="-4"/>
+        <nd ref="-28"/>
+        <tag k="id" v="45"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-23" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-8"/>
+        <nd ref="-29"/>
+        <tag k="id" v="46"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-24" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-29"/>
+        <nd ref="-13"/>
+        <tag k="id" v="47"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-25" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-30"/>
+        <nd ref="-31"/>
+        <tag k="id" v="6"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-26" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-32"/>
+        <nd ref="-33"/>
+        <tag k="id" v="7"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-27" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-34"/>
+        <nd ref="-35"/>
+        <tag k="id" v="8"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-28" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-36"/>
+        <nd ref="-37"/>
+        <tag k="id" v="9"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-29" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-38"/>
+        <nd ref="-39"/>
+        <tag k="id" v="10"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-30" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-40"/>
+        <nd ref="-41"/>
+        <tag k="id" v="11"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-31" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-31"/>
+        <nd ref="-42"/>
+        <tag k="id" v="12"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-32" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-42"/>
+        <nd ref="-43"/>
+        <tag k="id" v="13"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-33" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-33"/>
+        <nd ref="-44"/>
+        <tag k="id" v="14"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-34" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-44"/>
+        <nd ref="-15"/>
+        <tag k="id" v="15"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-35" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-35"/>
+        <nd ref="-45"/>
+        <tag k="id" v="16"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-36" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-45"/>
+        <nd ref="-46"/>
+        <tag k="id" v="17"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-37" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-37"/>
+        <nd ref="-40"/>
+        <tag k="id" v="18"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-38" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-40"/>
+        <nd ref="-47"/>
+        <tag k="id" v="19"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-39" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-39"/>
+        <nd ref="-41"/>
+        <tag k="id" v="20"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-40" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-41"/>
+        <nd ref="-48"/>
+        <tag k="id" v="21"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-41" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-47"/>
+        <nd ref="-49"/>
+        <tag k="id" v="22"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-42" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-50"/>
+        <nd ref="-51"/>
+        <tag k="id" v="23"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-43" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-48"/>
+        <nd ref="-50"/>
+        <tag k="id" v="24"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-44" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-15"/>
+        <nd ref="-46"/>
+        <tag k="id" v="32"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-45" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-46"/>
+        <nd ref="-49"/>
+        <tag k="id" v="32"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-46" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-49"/>
+        <nd ref="-51"/>
+        <tag k="id" v="32"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+    <way id="-47" timestamp='2009-03-11T06:30:08Z' user='yellowbkpk' visible='true' version='1'>
+        <nd ref="-51"/>
+        <nd ref="-52"/>
+        <nd ref="-53"/>
+        <nd ref="-16"/>
+        <tag k="id" v="32"/>
+        <tag k="forward" v="1"/>
+        <tag k="backward" v="1"/>
+        <tag k="highway" v="indoor"/>
+    </way>
+</osm>
